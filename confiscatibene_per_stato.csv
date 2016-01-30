@@ -1,0 +1,95 @@
+IdRegioneISTAT,Regione,IdProvinciaISTAT,Provincia,Immobili destinati consegnati,Immobili destinati non consegnati,Immobili in gestione,Immobili non confiscati in via autonoma,Immobili usciti dalla gestione,Totale immobili,Aziende in gestione,Aziende uscite dalla gestione,Totale aziende,Beni in gestione,Beni usciti dalla gestione,Totale beni
+1,Piemonte,1,Torino,58,13,49,0,5,125,5,5,10,54,10,135
+1,Piemonte,2,Vercelli,3,2,1,0,0,6,0,0,0,1,0,6
+1,Piemonte,3,Novara,0,0,4,0,1,5,0,1,1,4,2,6
+1,Piemonte,4,Cuneo,6,0,7,0,0,13,0,0,0,7,0,13
+1,Piemonte,5,Asti,7,0,0,0,0,7,0,0,0,0,0,7
+1,Piemonte,6,Alessandria,3,0,0,0,0,3,1,1,2,1,1,5
+1,Piemonte,103,Verbano-Cusio-Ossola,5,4,0,0,0,9,0,0,0,0,0,9
+3,Lombardia,12,Varese,39,2,36,0,3,80,1,2,3,37,5,83
+3,Lombardia,13,Como,28,2,13,0,14,57,2,8,10,15,22,67
+3,Lombardia,14,Sondrio,4,0,0,0,0,4,0,0,0,0,0,4
+3,Lombardia,15,Milano,379,12,163,47,7,561,71,76,147,234,83,708
+3,Lombardia,16,Bergamo,18,1,7,0,0,26,1,1,2,8,1,28
+3,Lombardia,17,Brescia,63,4,24,12,3,94,15,15,30,39,18,124
+3,Lombardia,18,Pavia,20,1,15,2,2,38,0,3,3,15,5,41
+3,Lombardia,19,Cremona,2,0,5,0,0,7,0,0,0,5,0,7
+3,Lombardia,20,Mantova,5,0,0,1,0,5,2,0,2,2,0,7
+3,Lombardia,97,Lecco,32,1,2,0,5,40,6,13,19,8,18,59
+3,Lombardia,98,Lodi,1,0,6,0,0,7,0,0,0,6,0,7
+3,Lombardia,108,Monza E Della Brianza,15,3,19,4,7,44,4,3,7,23,10,51
+4,Trentino-Alto Adige/Sudtirol,22,Trento,16,0,0,1,0,16,0,0,0,0,0,16
+5,Veneto,23,Verona,22,0,0,0,2,24,1,0,1,1,2,25
+5,Veneto,24,Vicenza,2,0,0,0,0,2,0,0,0,0,0,2
+5,Veneto,25,Belluno,6,0,0,0,4,10,0,1,1,0,5,11
+5,Veneto,26,Treviso,2,0,1,0,0,3,0,0,0,1,0,3
+5,Veneto,27,Venezia,34,0,0,0,1,35,2,0,2,2,1,37
+5,Veneto,28,Padova,2,0,3,0,2,7,0,0,0,3,2,7
+5,Veneto,29,Rovigo,3,0,0,0,0,3,0,0,0,0,0,3
+6,Friuli Venezia Giulia,30,Udine,7,0,2,0,0,9,1,0,1,3,0,10
+6,Friuli Venezia Giulia,32,Trieste,1,7,0,0,1,9,0,0,0,0,1,9
+7,Liguria,8,Imperia,3,0,1,0,1,5,1,0,1,2,1,6
+7,Liguria,9,Savona,2,0,2,0,0,4,0,1,1,2,1,5
+7,Liguria,10,Genova,11,0,6,0,1,18,4,3,7,10,4,25
+7,Liguria,11,La Spezia,7,0,9,0,0,16,5,1,6,14,1,22
+8,Emilia-Romagna,33,Piacenza,5,0,1,0,0,6,0,0,0,1,0,6
+8,Emilia-Romagna,34,Parma,6,0,0,0,0,6,0,0,0,0,0,6
+8,Emilia-Romagna,36,Modena,0,0,0,0,0,0,2,0,2,2,0,2
+8,Emilia-Romagna,37,Bologna,8,1,12,0,0,21,12,7,19,24,7,40
+8,Emilia-Romagna,38,Ferrara,8,0,0,0,6,14,2,0,2,2,6,16
+8,Emilia-Romagna,39,Ravenna,8,0,0,0,0,8,0,0,0,0,0,8
+8,Emilia-Romagna,40,Forlì-Cesena,20,0,0,0,8,28,0,0,0,0,8,28
+8,Emilia-Romagna,99,Rimini,0,2,1,0,0,3,2,1,3,3,1,6
+9,Toscana,45,Massa-Carrara,6,0,2,0,0,8,2,1,3,4,1,11
+9,Toscana,46,Lucca,7,0,1,0,0,8,0,0,0,1,0,8
+9,Toscana,47,Pistoia,3,0,12,0,0,15,0,1,1,12,1,16
+9,Toscana,48,Firenze,10,1,2,0,0,13,0,2,2,2,2,15
+9,Toscana,49,Livorno,1,0,0,0,0,1,0,0,0,0,0,1
+9,Toscana,50,Pisa,0,0,0,0,2,2,0,0,0,0,2,2
+9,Toscana,51,Arezzo,4,0,0,0,0,4,1,1,2,1,1,6
+9,Toscana,52,Siena,1,0,0,14,0,1,1,1,2,1,1,3
+9,Toscana,100,Prato,0,3,1,0,0,4,1,0,1,2,0,5
+10,Umbria,54,Perugia,0,0,3,0,0,3,0,1,1,3,1,4
+11,Marche,41,Pesaro E Urbino,4,0,5,0,2,11,2,1,3,7,3,14
+11,Marche,42,Ancona,1,0,2,0,0,3,0,0,0,2,0,3
+11,Marche,44,Ascoli Piceno,2,0,1,0,0,3,1,0,1,2,0,4
+12,Lazio,56,Viterbo,5,0,0,0,0,5,1,0,1,1,0,6
+12,Lazio,58,Roma,197,21,107,0,36,361,61,57,118,168,93,479
+12,Lazio,59,Latina,49,7,24,0,1,81,11,1,12,35,2,93
+12,Lazio,60,Frosinone,13,1,43,0,1,58,9,0,9,52,1,67
+13,Abruzzo,66,L'aquila,16,0,4,0,0,20,0,0,0,4,0,20
+13,Abruzzo,67,Teramo,20,0,2,0,0,22,0,0,0,2,0,22
+13,Abruzzo,68,Pescara,3,0,4,0,0,7,0,0,0,4,0,7
+13,Abruzzo,69,Chieti,2,0,2,0,0,4,1,0,1,3,0,5
+14,Molise,70,Campobasso,2,0,0,0,0,2,0,0,0,0,0,2
+15,Campania,61,Caserta,304,7,120,3,13,444,47,30,77,167,43,521
+15,Campania,62,Benevento,8,2,0,0,0,10,5,0,5,5,0,15
+15,Campania,63,Napoli,465,90,317,1,19,891,135,45,180,452,64,1071
+15,Campania,64,Avellino,10,0,15,0,1,26,7,3,10,22,4,36
+15,Campania,65,Salerno,112,7,50,1,31,200,58,17,75,108,48,275
+16,Puglia,71,Foggia,48,5,34,0,2,89,1,1,2,35,3,91
+16,Puglia,72,Bari,190,19,74,5,14,297,27,23,50,101,37,347
+16,Puglia,73,Taranto,77,10,63,1,2,152,17,7,24,80,9,176
+16,Puglia,74,Brindisi,180,34,63,0,8,285,18,6,24,81,14,309
+16,Puglia,75,Lecce,71,6,34,0,11,122,18,10,28,52,21,150
+16,Puglia,110,Barletta-Andria-Trani,32,0,17,0,1,50,0,3,3,17,4,53
+17,Basilicata,76,Potenza,10,3,1,0,0,14,2,0,2,3,0,16
+17,Basilicata,77,Matera,5,1,2,0,0,8,2,1,3,4,1,11
+18,Calabria,78,Cosenza,83,3,17,1,17,120,9,6,15,26,23,135
+18,Calabria,79,Catanzaro,156,12,81,2,10,259,10,3,13,91,13,272
+18,Calabria,80,Reggio Di Calabria,639,133,286,6,37,1095,67,41,108,353,78,1203
+18,Calabria,101,Crotone,56,2,36,0,12,106,3,2,5,39,14,111
+18,Calabria,102,Vibo Valentia,36,8,24,0,2,70,16,4,20,40,6,90
+19,Sicilia,81,Trapani,267,7,55,5,17,346,35,5,40,90,22,386
+19,Sicilia,82,Palermo,1348,184,1581,905,130,3243,340,54,394,1921,184,3637
+19,Sicilia,83,Messina,70,6,152,15,11,239,28,0,28,180,11,267
+19,Sicilia,84,Agrigento,98,9,93,0,7,207,31,0,31,124,7,238
+19,Sicilia,85,Caltanissetta,41,1,110,0,1,153,12,5,17,122,6,170
+19,Sicilia,86,Enna,20,8,17,1,0,45,7,2,9,24,2,54
+19,Sicilia,87,Catania,153,252,107,1,14,526,75,15,90,182,29,616
+19,Sicilia,88,Ragusa,40,1,2,45,0,43,0,1,1,2,1,44
+19,Sicilia,89,Siracusa,51,0,26,0,2,79,8,3,11,34,5,90
+20,Sardegna,90,Sassari,8,0,0,0,0,8,0,0,0,0,0,8
+20,Sardegna,91,Nuoro,2,0,0,0,0,2,0,0,0,0,0,2
+20,Sardegna,92,Cagliari,35,9,5,0,0,49,0,1,1,5,1,50
+20,Sardegna,95,Oristano,1,0,0,0,0,1,0,0,0,0,0,1
